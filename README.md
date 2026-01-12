@@ -1,6 +1,7 @@
 # 📦 🐋
 
-- 🔭 Working on other [container](https://aws.amazon.com/fargate)
+- 💾 Production Engineering at Meta
+- 🔭 Previously [container](https://aws.amazon.com/fargate)
   [infrastructure](https://aws.amazon.com/ecs)
   at Amazon Web Services
 - 💻 Always building [silly things](https://github.com/petderek/subawoo).
